@@ -1,5 +1,9 @@
 <h2 align="left">Simply Chocolate</h2>
 
+![Simply Chocolate](/assets/hero.png) _Hero section_
+
+![Simply Chocolate](/assets/swiper.png) _Swiper section_
+
 ###
 
 <h2 align="left">Features:</h2>
@@ -31,6 +35,7 @@
 ```bash
 git clone https://github.com/Olena-Nechyporenko/simply-chocolate.git
 ```
+
 ### 2. Install Dependencies
 
 Navigate to the project directory and install the required dependencies.
