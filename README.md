@@ -36,7 +36,7 @@ git clone https://github.com/Olena-Nechyporenko/simply-chocolate.git
 Navigate to the project directory and install the required dependencies.
 
 ```bash
-cd [project_directory]
+cd simply-chocolate
 npm install
 ```
 
