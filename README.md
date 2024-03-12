@@ -54,3 +54,4 @@ npm run dev
 ```
 
 ### 4. Open [this link](https://nataly-naf.github.io/cookie-army/) to view it in the browser.
+
